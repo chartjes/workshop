@@ -1,0 +1,11 @@
+{
+  "require": {
+    "phpunit/phpunit": "^5.4",
+    "mockery/mockery": "^0.9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Workshop\\": "src/"
+    }
+  }
+}
